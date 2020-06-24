@@ -2,7 +2,7 @@
 
 ## Deploy
 
-- [pokedex-gql-hugo-marcelo.netlify.app](https://pokedex-gql-hugo-marcelo.netlify.app/)
+- [hugo-marcelo.gitlab.io/pokedex-gql](https://hugo-marcelo.gitlab.io/pokedex-gql/)
 
 ## 💼 Sobre o projeto
 
