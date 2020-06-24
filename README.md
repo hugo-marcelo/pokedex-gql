@@ -4,7 +4,7 @@
 
 - [pokedex-gql-hugo-marcelo.netlify.app](https://pokedex-gql-hugo-marcelo.netlify.app/)
 
-## 💇🏻‍♂️ Sobre o projeto
+## 💼 Sobre o projeto
 
 Crie um projeto utilizando React e a API GraphQL Pokémon (https://github.com/lucasbento/graphql-pokemon) seguindo as especificações abaixo.
 
