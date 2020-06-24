@@ -2,6 +2,7 @@
   "name": "pokedex-gql",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hugo-marcelo.gitlab.io/pokedex-gql",
   "dependencies": {
     "@apollo/react-hooks": "^3.1.5",
     "@material-ui/core": "^4.10.2",

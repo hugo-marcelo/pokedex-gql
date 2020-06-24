@@ -16,7 +16,7 @@ const App = () => {
     <ThemeProvider theme={Theme}>
       <ApolloProvider client={pokemonClient}>
         <CssBaseline />
-        <Router basename="/">
+        <Router basename="/pokedex-gql">
           <Switch>
             <Suspense fallback={<Loader />}>
               <Route exact path="/" component={Index} />
